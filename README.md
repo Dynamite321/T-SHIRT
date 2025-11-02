@@ -1,5 +1,4 @@
-# T-SHIRT: Token-Selective Hierarchical Data Selection
-for Instruction Tuning
+# T-SHIRT: Token-Selective Hierarchical Data Selection for Instruction Tuning
 
 Thank you for your interest in our work!
 
