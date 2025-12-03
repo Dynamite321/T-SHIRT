@@ -2,7 +2,11 @@
 
 [Yanjun Fu](https://dynamite321.github.io/), [Faisal Hamman](https://www.faisalhamman.com/), [Sanghamitra Dutta](https://sites.google.com/site/sanghamitraweb/)
 
-[[📖 Paper](https://arxiv.org/abs/2506.01317)]
+<a target="_blank" href="https://arxiv.org/abs/2506.01317">
+<img style="height:22pt" src="https://img.shields.io/badge/-Paper-red?style=flat&logo=arxiv"></a>
+<a target="_blank" href="https://huggingface.co/datasets/formal-umd/T-SHIRT">
+<img style="height:22pt" src="https://img.shields.io/badge/-🤗%20Dataset-blue?style=flat"></a>
+
 
 ## Overview
 ![overview](./assets/overview.png)
